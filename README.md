@@ -1,6 +1,6 @@
 # Divyansh Sharma
 
-**Business Analyst** · Rochester, NY · open to relocation across the US
+**Business Analyst** · Rochester, NY 
 
 I work on pricing, market entry, and operations analytics — mostly the question of why a number moved and what to do about it. Three years of that for retail and e-commerce clients across the US, Australia, and India, and an MS in Business Analytics from RIT.
 
