@@ -31,4 +31,4 @@ Top-down and bottom-up market sizing for a product category, with the two approa
 
 ### Elsewhere
 
-[Portfolio](https://portfolio-divyansharma.vercel.app) · [LinkedIn](https://www.linkedin.com/in/divyansharma1504) · divyansharma1504@gmail.com
+[LinkedIn](https://www.linkedin.com/in/divyansharma1504) · divyansharma1504@gmail.com
