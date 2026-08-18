@@ -24,8 +24,6 @@ How 2025 US tariff policy hit different industries. Event-study analysis of mark
 **[saas-retention-analytics](https://github.com/divyansh6618/saas-retention-analytics)**
 Cohort retention, revenue retention, and unit economics on real transaction data. Ends in a recommendation, not a chart.
 
-**[market-sizing-case-study](https://github.com/divyansh6618/market-sizing-case-study)**
-Top-down and bottom-up market sizing for a product category, with the two approaches reconciled against each other and every assumption stated explicitly.
 
 ---
 
